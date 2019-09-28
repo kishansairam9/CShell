@@ -1,0 +1,1 @@
+void storePromptString(char *store);
