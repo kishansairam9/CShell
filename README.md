@@ -1,6 +1,6 @@
 # C Shell
 
-> Developed on git repository [here]() under folders Assignment2 & Assignment3. Refer for commit history
+> Developed on git repository [here](https://github.com/kishansairam9/Operating-Systems-Assignments) under folders Assignment2 & Assignment3. Refer for commit history
 
 - Computer Systems Engineering - 1 (Assignment 2 & 3)
 - By Kishan Sairam Adapa - 2018101026
